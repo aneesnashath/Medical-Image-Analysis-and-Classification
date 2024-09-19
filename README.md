@@ -28,7 +28,7 @@ Navigate to the project directory.
 Follow instructions in the README.md within each subdirectory for specific usage guidelines.
 
 Contributors
-Anees Nashath Shaik
+Anees Nashath Shaik(Team Lead)
 Monu Kumavat
 Riya Vora
 Vineela Poreddu

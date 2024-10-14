@@ -31,4 +31,4 @@ Contributors
 Anees Nashath Shaik(Team Lead)
 Monu Kumavat
 Riya Vora
-Vineela Poreddu
+Vineela Poreddy

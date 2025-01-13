@@ -9,21 +9,8 @@ Intelligent train-test data splitting to handle imbalances
 Four deep learning models developed with Keras (2 for PathMNIST, 2 for PneumoniaMNIST)
 Performance evaluation metrics (F1, precision, recall, accuracy, confusion matrix)
 Interactive Unity-based application for seamless image upload and classification
-Installation
-Clone the repository:
-
-bash
-
-git clone https://github.com/yourusername/MedAI.git
-
-Install dependencies:
 
 
-pip install -r requirements.txt
-
-
-Usage
-Navigate to the project directory.
 
 Follow instructions in the README.md within each subdirectory for specific usage guidelines.
 
